@@ -1,0 +1,6 @@
+{
+  "name": "Phố Cổ Hoa Lư – Ninh Bình",
+  "description": "Website giới thiệu Phố cổ Hoa Lư, Ninh Bình tích hợp Trợ lý du lịch HOA LƯ AI độc lập sử dụng kiến trúc RAG và NLU tiếng Việt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
